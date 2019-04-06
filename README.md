@@ -1,4 +1,5 @@
 此作品在Anaconda環境下，使用PyCharm IDE進行coding
+
 使用Jieba套件對中文資料進行斷詞斷句(目前繁體中文的斷詞斷句效果較簡體差)
 藉由word2vec實行Vector space based方式，將文字資料弄成向量空間，計算彼此之間的餘弦值來比較關聯程度
 最後使用matplotlib套件，將結果以圖呈現(成果例子可以看看此頁的PNG檔)
