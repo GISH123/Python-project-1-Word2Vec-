@@ -15,6 +15,3 @@
 
 # 備註
 此份檔案可在更改小部分，使用word2vec對其他資料集進行分析，由於我已經把keywordPlot.py多數Input變數化，照理來說應該方便許多
-## 震驚！更好的jieba  
-https://github.com/ldkrsi/jieba-zh_TW
-使用這個斷詞繁體中文效果好"非常多"。此次版本已更改為jieba zhTW
